@@ -1,0 +1,63 @@
+<svg fill="none" viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D1A"/>
+      <stop offset="50%" stop-color="#1a1a3e"/>
+      <stop offset="100%" stop-color="#0D0D1A"/>
+    </linearGradient>
+    <linearGradient id="wave1grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="wave2grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.02"/>
+    </linearGradient>
+    <style type="text/css">
+      .wave1 { animation: wave1Move 8s ease-in-out infinite; }
+      .wave2 { animation: wave2Move 10s ease-in-out infinite; }
+      .wave3 { animation: wave3Move 12s ease-in-out infinite; }
+      .particle { animation: float 6s ease-in-out infinite; }
+      .p1 { animation-delay: 0s; }
+      .p2 { animation-delay: 1.5s; }
+      .p3 { animation-delay: 3s; }
+      .p4 { animation-delay: 4.5s; }
+      @keyframes wave1Move { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(-30px); } }
+      @keyframes wave2Move { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(40px); } }
+      @keyframes wave3Move { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(-20px); } }
+      @keyframes float { 0%, 100% { transform: translateY(0) scale(1); opacity: 0.4; } 50% { transform: translateY(-15px) scale(1.2); opacity: 0.8; } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle class="particle p1" cx="150" cy="80" r="2" fill="#6C63FF" opacity="0.4"/>
+  <circle class="particle p2" cx="400" cy="120" r="1.5" fill="#A78BFA" opacity="0.3"/>
+  <circle class="particle p3" cx="750" cy="60" r="2.5" fill="#6C63FF" opacity="0.5"/>
+  <circle class="particle p4" cx="1000" cy="100" r="1.8" fill="#A78BFA" opacity="0.3"/>
+  <circle class="particle p1" cx="550" cy="200" r="1.2" fill="#6C63FF" opacity="0.2"/>
+  <circle class="particle p3" cx="900" cy="220" r="2" fill="#A78BFA" opacity="0.3"/>
+  <circle class="particle p2" cx="250" cy="180" r="1.8" fill="#6C63FF" opacity="0.3"/>
+  <circle class="particle p4" cx="1100" cy="180" r="2.2" fill="#A78BFA" opacity="0.25"/>
+  <g class="wave1">
+    <path d="M0,240 C200,200 400,260 600,240 C800,220 1000,260 1200,240 L1200,300 L0,300 Z" fill="url(#wave1grad)"/>
+  </g>
+  <g class="wave2">
+    <path d="M0,255 C300,230 500,270 700,250 C900,230 1100,265 1200,255 L1200,300 L0,300 Z" fill="url(#wave2grad)"/>
+  </g>
+  <g class="wave3">
+    <path d="M0,270 C250,258 450,278 650,265 C850,252 1050,275 1200,268 L1200,300 L0,300 Z" fill="#6C63FF" fill-opacity="0.08"/>
+  </g>
+  <foreignObject x="0" y="0" width="1200" height="250">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .text-container { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 250px; text-align: center; }
+        .title { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 44px; font-weight: 700; color: #FFFFFF; margin: 0; letter-spacing: 1px; text-shadow: 0 0 30px rgba(108,99,255,0.4); }
+        .subtitle { font-family: 'Courier New', monospace; font-size: 16px; color: #A78BFA; margin-top: 10px; letter-spacing: 3px; text-transform: uppercase; }
+        .dot { display: inline-block; width: 8px; height: 8px; background: #6C63FF; border-radius: 50%; margin: 0 12px; vertical-align: middle; box-shadow: 0 0 10px #6C63FF; }
+      </style>
+      <div class="text-container">
+        <h1 class="title">Amaury Poltavtseef</h1>
+        <p class="subtitle"><span class="dot"></span>Solo Full-Stack &amp; Mobile Developer<span class="dot"></span></p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
