@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Solo+full-stack+%26+mobile+developer;20%2B+products+shipped+from+scratch+to+prod;Flutter+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+TypeScript)](https://www.linkedin.com/in/polta/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Solo+full-stack+%26+mobile+developer;20%2B+products+shipped+from+scratch+to+prod;Flutter+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+TypeScript)](https://www.linkedin.com/in/polta/)
 
 [![Available for hire](https://img.shields.io/badge/Available_for_hire-22C55E?style=for-the-badge)](https://www.linkedin.com/in/polta/)
 [![Hire me](https://img.shields.io/badge/Got_a_project%3F_Let's_talk-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoltavtseef@gmail.com?subject=Project%20Inquiry%20-%20Found%20you%20on%20GitHub&body=Hi%20Amaury%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20I%E2%80%99d%20like%20to%20discuss%20a%20project.%0A%0AHere%E2%80%99s%20a%20brief%20overview%3A%0A-%20Project%20type%3A%20%0A-%20Timeline%3A%20%0A-%20Budget%20range%3A%20%0A%0ALooking%20forward%20to%20hearing%20from%20you!)
@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/polta/"><img src="./assets/gradient-line.svg" width="100%"></a>
+<img src="./assets/gradient-line.svg" width="100%" alt="">
 
 <br/>
 
@@ -44,7 +44,7 @@ fun_facts:
 availability: open  # let's talk
 ```
 
-I'm the developer founders call when their agency couldn't deliver. One client spent **50,000 euros** on an agency - product was unusable. I rebuilt it solo: 88 screens, 32 languages, real-time chat, Stripe Connect. That's how I operate. One dev, zero excuses.
+I'm the developer founders call when their agency couldn't deliver. One client spent **€50,000** on an agency - product was unusable. I rebuilt it solo: 88 screens, 32 languages, real-time chat, Stripe Connect. That's how I operate. One dev, zero excuses.
 
 - Currently building: AI-powered SaaS products
 - Currently learning: always something new, currently deep in [Claude Agent SDK](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/sdk)
@@ -52,7 +52,7 @@ I'm the developer founders call when their agency couldn't deliver. One client s
 
 <br/>
 
-<img src="./assets/gradient-line.svg" width="100%">
+<img src="./assets/gradient-line.svg" width="100%" alt="">
 
 <br/>
 
@@ -100,7 +100,7 @@ I'm the developer founders call when their agency couldn't deliver. One client s
 
 <br/>
 
-<img src="./assets/gradient-line.svg" width="100%">
+<img src="./assets/gradient-line.svg" width="100%" alt="">
 
 <br/>
 
@@ -164,7 +164,7 @@ Enter a company name, receive a full strategic report within 24 hours. AI agents
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://www.tradegenius.com">TradeGenius</a></h3>
+<h3>TradeGenius</h3>
 
 **Crypto DEX trading platform**
 
@@ -176,8 +176,6 @@ Enter a company name, receive a full strategic report within 24 hours. AI agents
 </p>
 
 Frontend reinforcement for a US-based crypto decentralized exchange. Real-time trading charts, advanced datatables, animated reward wheel system, gain modals with GIF-to-video conversion, distributed wallet system for order execution.
-
-[![Live](https://img.shields.io/badge/tradegenius.com-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.tradegenius.com)
 
 </td>
 </tr>
@@ -277,7 +275,7 @@ Medical coordination platform for EHPAD nursing homes. Complete resident managem
 
 <br/>
 
-<img src="./assets/gradient-line.svg" width="100%">
+<img src="./assets/gradient-line.svg" width="100%" alt="">
 
 <br/>
 
@@ -299,7 +297,7 @@ Medical coordination platform for EHPAD nursing homes. Complete resident managem
 
 <br/>
 
-<img src="./assets/gradient-line.svg" width="100%">
+<img src="./assets/gradient-line.svg" width="100%" alt="">
 
 <br/>
 
@@ -315,7 +313,7 @@ Medical coordination platform for EHPAD nursing homes. Complete resident managem
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asteerix/Asteerix/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asteerix/Asteerix/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Asteerix/Asteerix/output/github-snake-dark.svg" width="100%" />
+  <img alt="GitHub contribution graph snake animation" src="https://raw.githubusercontent.com/Asteerix/Asteerix/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -324,7 +322,7 @@ Medical coordination platform for EHPAD nursing homes. Complete resident managem
 
 <a href="https://www.linkedin.com/in/polta/">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=120&section=footer&text=&fontSize=0)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=120&section=footer)
 
 </a>
 
