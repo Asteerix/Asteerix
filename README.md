@@ -192,9 +192,9 @@ Frontend reinforcement for a US-based crypto decentralized exchange. Real-time t
 <p>
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
   <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React_Admin-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
   <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/></a>
-  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+  <a href="https://project-osrm.org"><img src="https://img.shields.io/badge/OSRM-7B42BC?style=flat-square"/></a>
 </p>
 
 Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 Paris zones, dual payment gateway (EUR + XOF + cash), real-time driver dispatch and GPS tracking, self-hosted OSRM routing, SMS/WhatsApp notifications.
@@ -214,7 +214,7 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
   <a href="https://opensearch.org"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square"/></a>
 </p>
 
-20 months solo. Custom avatar engine built from scratch with layered PNG compositing. Collaborative wishlists, group funding pools, WebSocket messaging, affiliate product search, managed children accounts with parental controls.
+20 months solo. Collaborative wishlists and group gift funding with transparent contribution tracking, real-time WebSocket messaging, affiliate-integrated product search, a custom layered-PNG avatar builder, and managed children accounts with parental controls.
 
 </td>
 </tr>
