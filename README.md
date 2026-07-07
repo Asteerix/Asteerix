@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Solo+full-stack+%26+mobile+developer;20%2B+products+shipped+from+scratch+to+prod;Flutter+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+TypeScript)](https://www.linkedin.com/in/polta/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Solo+full-stack+%26+mobile+developer;10%2B+products+shipped+from+scratch+to+prod;Flutter+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+TypeScript)](https://www.linkedin.com/in/polta/)
 
 [![Available for hire](https://img.shields.io/badge/Available_for_hire-22C55E?style=for-the-badge)](https://www.linkedin.com/in/polta/)
 [![Hire me](https://img.shields.io/badge/Got_a_project%3F_Let's_talk-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoltavtseef@gmail.com?subject=Project%20Inquiry%20-%20Found%20you%20on%20GitHub&body=Hi%20Amaury%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20I%E2%80%99d%20like%20to%20discuss%20a%20project.%0A%0AHere%E2%80%99s%20a%20brief%20overview%3A%0A-%20Project%20type%3A%20%0A-%20Timeline%3A%20%0A-%20Budget%20range%3A%20%0A%0ALooking%20forward%20to%20hearing%20from%20you!)
@@ -23,7 +23,7 @@
 
 ```yaml
 # amaury.yml - do not edit in production (I'm already running)
-# TODO: mass sleep  # has been in the backlog since 2021
+# TODO: sleep  # been in the backlog since 2021
 
 name: Amaury Poltavtseef
 location: Paris, France
@@ -37,7 +37,7 @@ focus: |
 fun_facts:
   - Started coding at 13 by reverse-engineering Call of Duty on PS3
   - Ran top 2 French Garry's Mod servers before turning 18
-  - Mass-texts friends to beta test every new app
+  - Texts every friend to beta-test each new app
   - Has deployed more Dockerfiles than cooked meals
   - If you're reading the YAML, you're probably a dev. Hi.
 
@@ -106,11 +106,13 @@ I'm the developer founders call when their agency couldn't deliver. One client s
 
 ## Featured Projects
 
+> Most of this is client work — the source stays private under NDA. Here's what I built.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/2gather-nyxus">2gather</a></h3>
+<h3>2gather</h3>
 
 **Social events & dating platform**
 
@@ -147,7 +149,7 @@ Rebuilt from a failed agency project. 88 screens, 32 languages, real-time matchi
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/klarvon">Klarvon</a></h3>
+<h3>Klarvon</h3>
 
 **AI-powered strategic intelligence SaaS**
 
@@ -169,8 +171,8 @@ Enter a company name, receive a full strategic report within 24 hours. AI agents
 **Crypto DEX trading platform**
 
 <p>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
+  <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
   <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
 </p>
@@ -183,7 +185,7 @@ Frontend reinforcement for a US-based crypto decentralized exchange. Real-time t
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/afreecab">Afreecab</a></h3>
+<h3>Afreecab</h3>
 
 **Ride-hailing service**
 
@@ -200,7 +202,7 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/genie-gifts">Genie</a></h3>
+<h3>Genie</h3>
 
 **Collaborative gift & event app**
 
@@ -220,7 +222,7 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/thot-app">Thot</a></h3>
+<h3>Thot</h3>
 
 **Social network for journalists**
 
@@ -237,7 +239,7 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/arte-noir-digital">FuturMed</a></h3>
+<h3>FuturMed</h3>
 
 **Medical platform for nursing homes**
 
@@ -263,13 +265,13 @@ Medical coordination platform for EHPAD nursing homes. Complete resident managem
 
 | Project | What I built |
 |---------|-------------|
-| [**TV Media Show**](https://github.com/AppFlavors) | Digital signage SaaS - WebRTC live preview, 6 screen pairing methods, Stripe billing tiers. `Express` `React` `Socket.IO` |
-| [**Cryptobot**](https://github.com/agence-and-co) | Crypto analytics platform - ML-powered trading signals, ETL from Binance/CoinGecko, Streamlit dashboards. `Python` `FastAPI` `TimescaleDB` |
-| [**&Friends**](https://github.com/and-friends) | Social events app - real-time chat, stories, interactive map, contact matching. `React Native` `Expo` `Supabase` |
-| [**Enlarge.fr**](https://github.com/arte-noir-digital) | Floating cultural bar website - GSAP + Lenis scroll animations, Stripe lottery system, 5 languages. `Next.js` `GSAP` `Prisma` |
-| [**Roamline**](https://github.com/polta-apps) | Travel journal app - calendar sync, NLP trip parser, Schengen day calculator, annual heatmaps. `Flutter` `Riverpod` `Hive` |
-| [**Cosmic Tap Ascension**](https://github.com/polta-apps) | Space idle game - prestige system, achievements, Game Center leaderboards, 12 languages. `Flutter` `Riverpod` |
-| [**AppFlavors**](https://github.com/AppFlavors) | 12+ client websites for studios, bars, associations, portfolios. `Next.js` `React` `Go` |
+| **TV Media Show** | Digital signage SaaS - WebRTC live preview, 6 screen pairing methods, Stripe billing tiers. `Express` `React` `Socket.IO` |
+| **Cryptobot** | Crypto analytics platform - ML-powered trading signals, ETL from Binance/CoinGecko, Streamlit dashboards. `Python` `FastAPI` `TimescaleDB` |
+| **&Friends** | Social events app - real-time chat, stories, interactive map, contact matching. `React Native` `Expo` `Supabase` |
+| **Enlarge.fr** | Floating cultural bar website - GSAP + Lenis scroll animations, Stripe lottery system, 5 languages. `Next.js` `GSAP` `Prisma` |
+| **Roamline** | Travel journal app - calendar sync, NLP trip parser, Schengen day calculator, annual heatmaps. `Flutter` `Riverpod` `Hive` |
+| **Cosmic Tap Ascension** | Space idle game - prestige system, achievements, Game Center leaderboards, 12 languages. `Flutter` `Riverpod` |
+| **AppFlavors** | 12+ client websites for studios, bars, associations, portfolios. `Next.js` `React` `Go` |
 
 </details>
 
@@ -293,7 +295,7 @@ Medical coordination platform for EHPAD nursing homes. Complete resident managem
 >
 > **2023** - Went freelance. Shipped the first product solo. Then the second. Then lost count.
 >
-> **Now** - Still shipping. Still solo. Still mass-texting friends to beta test. Still mass-deploying Dockerfiles at 2am.
+> **Now** - Still shipping. Still solo. Still texting friends to beta test. Still deploying Dockerfiles at 2am.
 
 <br/>
 
@@ -326,4 +328,4 @@ Medical coordination platform for EHPAD nursing homes. Complete resident managem
 
 </a>
 
-<!-- If you're reading the source, you found the second easter egg. The first one is in the YAML. Buy me a mass coffee: mass caffeine is what mass ships mass products. -->
+<!-- If you're reading the source, you found the second easter egg. The first one is in the YAML. -->
