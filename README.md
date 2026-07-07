@@ -214,7 +214,7 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
   <a href="https://opensearch.org"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square"/></a>
 </p>
 
-20 months solo. Custom avatar engine built from scratch with layered SVG compositing. Collaborative wishlists, group funding pools, WebSocket messaging, affiliate product search, managed children accounts with parental controls.
+20 months solo. Custom avatar engine built from scratch with layered PNG compositing. Collaborative wishlists, group funding pools, WebSocket messaging, affiliate product search, managed children accounts with parental controls.
 
 </td>
 </tr>
@@ -230,11 +230,11 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
   <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
+  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
   <a href="https://ffmpeg.org"><img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/></a>
 </p>
 
-13 months solo. Multimedia content platform - articles, long videos, shorts, podcasts. FFmpeg compression with HLS streaming, built-in photo/video capture with editing and cropping. Ready for App Store and Play Store.
+13 months solo. Multimedia content platform - articles, long videos, shorts, podcasts. FFmpeg compression with HTTP range streaming, built-in photo/video capture with editing and cropping. Ready for App Store and Play Store.
 
 </td>
 <td width="50%" valign="top">
