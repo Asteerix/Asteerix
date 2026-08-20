@@ -6,4 +6,5 @@
 # Build artifacts
 build/
 dist/
+__pycache__/
 .claude/settings.local.json

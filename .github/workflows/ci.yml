@@ -1,0 +1,35 @@
+name: ci
+
+# `dev` verifie, `main` livre. Ici `dev` est aussi la branche par defaut, donc
+# celle que GitHub rend sur le profil: une regression poussee ici est publique
+# immediatement, sans etape de build pour l'arreter. Ce fichier est la seule
+# etape qui existe entre l'edition et la page.
+#
+# Il ne publie rien et n'a besoin d'aucun secret, ce qui l'autorise a tourner
+# sur une pull request.
+
+on:
+  pull_request:
+    branches: [dev]
+  push:
+    branches: [dev]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Le controle sait encore echouer
+        run: python3 .github/tests/test_check_readme.py
+
+      - name: Toute image a un alt, aucune reference locale morte
+        run: python3 .github/check-readme.py
