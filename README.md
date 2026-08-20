@@ -117,11 +117,11 @@ I'm the developer founders call when their agency couldn't deliver. One client s
 **Social events & dating platform**
 
 <p>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-  <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
-  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></a>
+  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/></a>
 </p>
 
 Rebuilt from a failed agency project. 88 screens, 32 languages, real-time matching and messaging, Stripe Connect payments, university verification with OCR and facial recognition. Full admin panel with analytics. Ansible + Docker infrastructure with Prometheus/Grafana monitoring.
@@ -134,11 +134,11 @@ Rebuilt from a failed agency project. 88 screens, 32 languages, real-time matchi
 **3 national government platforms**
 
 <p>
-  <a href="https://symfony.com"><img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/></a>
-  <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-  <a href="https://www.ansible.com"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/></a>
+  <a href="https://symfony.com"><img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony"/></a>
+  <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://www.ansible.com"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/></a>
 </p>
 
 2 years 9 months on-site. Police cadet assignments across 20+ academies, aerial permits management, road works tracking. Replaced a legacy Access 98 system. SAML SSO, GDPR compliance. Processing time cut by 3x.
@@ -154,11 +154,11 @@ Rebuilt from a failed agency project. 88 screens, 32 languages, real-time matchi
 **AI-powered strategic intelligence SaaS**
 
 <p>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
-  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude_AI-191919?style=flat-square&logo=anthropic&logoColor=white"/></a>
-  <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude_AI-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI"/></a>
+  <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/></a>
 </p>
 
 Enter a company name, receive a full strategic report within 24 hours. AI agents analyze market sizing, competition, and positioning across 12 business frameworks. Interactive dashboards, AI chat on results, tiered Stripe subscriptions.
@@ -171,10 +171,10 @@ Enter a company name, receive a full strategic report within 24 hours. AI agents
 **Crypto DEX trading platform**
 
 <p>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
-  <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/></a>
 </p>
 
 Frontend reinforcement for a US-based crypto decentralized exchange. Real-time trading charts, advanced datatables, animated reward wheel system, gain modals with GIF-to-video conversion, distributed wallet system for order execution.
@@ -190,11 +190,11 @@ Frontend reinforcement for a US-based crypto decentralized exchange. Real-time t
 **Ride-hailing service**
 
 <p>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-  <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React_Admin-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
-  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/></a>
-  <a href="https://project-osrm.org"><img src="https://img.shields.io/badge/OSRM-7B42BC?style=flat-square"/></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/></a>
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React_Admin-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Admin"/></a>
+  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/></a>
+  <a href="https://project-osrm.org"><img src="https://img.shields.io/badge/OSRM-7B42BC?style=flat-square" alt="OSRM"/></a>
 </p>
 
 Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 Paris zones, dual payment gateway (EUR + XOF + cash), real-time driver dispatch and GPS tracking, self-hosted OSRM routing, SMS/WhatsApp notifications.
@@ -207,11 +207,11 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
 **Collaborative gift & event app**
 
 <p>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
-  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
-  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
-  <a href="https://opensearch.org"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square"/></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></a>
+  <a href="https://opensearch.org"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square" alt="OpenSearch"/></a>
 </p>
 
 20 months solo. Collaborative wishlists and group gift funding with transparent contribution tracking, real-time WebSocket messaging, affiliate-integrated product search, a custom layered-PNG avatar builder, and managed children accounts with parental controls.
@@ -227,11 +227,11 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
 **Social network for journalists**
 
 <p>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-  <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
-  <a href="https://ffmpeg.org"><img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></a>
+  <a href="https://ffmpeg.org"><img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/></a>
 </p>
 
 13 months solo. Multimedia content platform - articles, long videos, shorts, podcasts. FFmpeg compression with HTTP range streaming, built-in photo/video capture with editing and cropping. Ready for App Store and Play Store.
@@ -244,10 +244,10 @@ Complete platform - API, mobile app, and admin panel. Dynamic pricing across 9 P
 **Medical platform for nursing homes**
 
 <p>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
-  <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-  <a href="https://resend.com"><img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=minutemailer&logoColor=white"/></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+  <a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://resend.com"><img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=minutemailer&logoColor=white" alt="Resend"/></a>
 </p>
 
 Medical coordination platform for EHPAD nursing homes. Complete resident management, tabbed consultation workflow, rule-based diagnostic engine (symptoms to diagnoses), AI clinical assistant, notifications, CSV/PDF export.
