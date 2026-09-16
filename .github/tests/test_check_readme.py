@@ -24,7 +24,7 @@ REEL = (RACINE / "README.md").read_text(encoding="utf-8")
 
 MUTATIONS = [
     (
-        '<img src="./assets/header.svg" width="100%" alt="Amaury Poltavtseef - Solo Full-Stack & Mobile Developer" />',
+        '<img src="./assets/header.svg" width="100%" alt="Amaury Poltavtseef, Flutter and Full-Stack Developer" />',
         '<img src="./assets/header.svg" width="100%" />',
         "img sans alt",
     ),

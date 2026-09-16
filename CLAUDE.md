@@ -1,6 +1,6 @@
 # Asteerix
 
-Repo "profil GitHub" personnel d'Amaury Poltavtseef (`Asteerix`) — README.md + assets SVG (header, gradient-line). Page de présentation publique : bio, stack, projets phares (2gather, Klarvon, Afreecab, asc-toolkit, etc.), contact.
+Repo "profil GitHub" personnel d'Amaury Poltavtseef (`Asteerix`) — README.md + assets SVG (header, gradient-line). Page de présentation publique : bio, stack, expériences, contact. Depuis le 2026-09-16 son contenu est le miroir du CV : la seule source des faits est `~/Desktop/Freelance/cv/src/cv_base.py` (dates, rôles, puces, compétences). Aucun chiffre d'inventaire (écrans, apps, produits), aucun lien de store, aucun projet absent du CV ; Genie et Thot ont été livrées aux clients et jamais publiées, Sinao et 2gather sont les deux applications en ligne.
 
 ## Stack
 
@@ -26,12 +26,12 @@ npx markdown-cli README.md            # ou tout viewer Markdown
 ## Conventions
 
 - Tout ajout de projet phare doit pointer vers un repo réel (pas de lien mort)
-- Conserver les badges en cohérence avec la stack annoncée (Flutter / Next.js / NestJS / Go / TypeScript)
+- Conserver les badges en cohérence avec les compétences de `cv_base.py` (Flutter, Dart, TypeScript, NestJS, Next.js, React, Vue.js, Symfony, Go, C#) ; pas de badge d'un fournisseur de modèle autre qu'Anthropic
 - **Tout `<img>` porte un `alt`**, y compris un badge. Un badge sans `alt` à l'intérieur
   d'un lien laisse ce lien sans nom accessible : un lecteur d'écran annonce l'URL. C'est le
   critère WCAG 1.1.1, de niveau A, et la page en comptait 38 avant le 2026-08-20. Un `alt`
   vide (`alt=""`) est le bon choix pour un séparateur décoratif, et seulement pour lui.
-- Ne **pas** modifier `assets/header.svg` sans backup — c'est l'identité visuelle
+- Ne **pas** modifier `assets/header.svg` sans backup, c'est l'identité visuelle ; le sous-titre est passé de « Solo Full-Stack & Mobile Developer » à « Flutter and Full-Stack Developer » le 2026-09-16, l'ancien texte est dans l'historique git
 - Conventional commits : `type(scope): description`
 
 ## Branches
