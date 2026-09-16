@@ -50,13 +50,7 @@ npx markdown-cli README.md            # ou tout viewer Markdown
 
 - Le repo doit s'appeler exactement comme l'utilisateur GitHub (`Asteerix`) pour que GitHub
   l'utilise comme profil.
-- **Et il doit être public, ce qu'il n'est pas.** GitHub ne rend un README de profil que
-  depuis un dépôt public : tant que celui-ci est privé, `github.com/Asteerix` n'affiche
-  aucune page de profil. Les URL brutes du serpent
-  (`raw.githubusercontent.com/Asteerix/Asteerix/output/...`) sont inaccessibles sans jeton
-  pour la même raison, donc l'animation serait cassée même si la page s'affichait. Le
-  rendre public contredit la règle « tous les dépôts sont privés », donc c'est un arbitrage
-  à prendre, pas un oubli à corriger. État constaté le 2026-08-20.
+- **Et il est public depuis le 2026-09-17**, par décision d'Amaury (arbitrage tranché contre la règle « tous les dépôts sont privés », pour ce seul dépôt : les gabarits shipkit et polta-starters restent privés). GitHub ne rend un README de profil que depuis un dépôt public, et les URL brutes du serpent (`raw.githubusercontent.com/Asteerix/Asteerix/output/...`) ne répondent qu'à cette condition ; les deux sont vérifiés le 2026-09-17 (page rendue, SVG en 200). Wiki, issues, projets et discussions sont désactivés sur ce dépôt : c'est une page, pas un projet.
 - Une CI existe : `.github/workflows/snake.yml` régénère l'animation chaque nuit et pousse
   sur `output`. Il n'y a en revanche aucun build : une modification du `README.md` est
   visible sur le profil dès la poussée sur la branche par défaut.
