@@ -80,3 +80,8 @@ Tout est lisible par `gh api repos/Asteerix/Asteerix/...`, rien n'est à refaire
   que GitHub accepte) : ni issue, ni PR, ni commentaire d'inconnu sur une page de profil.
 - **Fonctionnalités** : wiki, issues, projets, discussions désactivés ; squash et rebase
   autorisés, merge commit non ; branches fusionnées supprimées automatiquement.
+- **Posés par l'interface, sans API** (2026-09-17, extension Chrome) : commentaires sur les
+  commits désactivés (`has_commit_comments`), mises à jour de sécurité groupées et alertes
+  malware Dependabot activées, limites de revue de code (`/settings/code_review_limits`,
+  approbations réservées aux comptes ayant au moins l'accès lecture). Rétention des
+  journaux d'Actions laissée à 90 jours : aucun artefact n'est produit.
