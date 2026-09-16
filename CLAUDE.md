@@ -56,3 +56,27 @@ npx markdown-cli README.md            # ou tout viewer Markdown
   visible sur le profil dès la poussée sur la branche par défaut.
 - Liens emails (`mailto:apoltavtseef@gmail.com`) **publics** — pas un secret, mais à mettre
   à jour si l'adresse change.
+
+## Réglages du dépôt, posés par l'API le 2026-09-17
+
+Tout est lisible par `gh api repos/Asteerix/Asteerix/...`, rien n'est à refaire à la main.
+
+- **Actions** : `allowed_actions: selected`, actions GitHub seules plus l'allow-list
+  `Platane/snk@*`, `Platane/snk/svg-only@*`, `crazy-max/ghaction-github-pages@*` ;
+  `sha_pinning_required: true` (les trois `uses` sont déjà épinglés au SHA) ; jeton par
+  défaut en lecture seule, sans approbation de PR ; approbation exigée pour tout
+  contributeur externe avant qu'un workflow de fork ne tourne. **Piège mesuré** : le motif
+  `Platane/snk@*` ne couvre pas l'action en sous-dossier `Platane/snk/svg-only`, le
+  workflow du serpent est parti en `startup_failure` jusqu'à l'ajout du motif complet.
+- **Ruleset** « dev et main : ni suppression ni force push » (id 23566854), actif, sur
+  `refs/heads/dev` et `refs/heads/main`. `output` n'y est pas : la CI la réécrit.
+- **Sécurité** : alertes Dependabot, mises à jour de sécurité Dependabot, secret scanning
+  et push protection actifs, signalement privé de vulnérabilités ouvert. Les motifs hors
+  fournisseur et les contrôles de validité restent `disabled` : ils demandent Advanced
+  Security, indisponible sur ce plan. CodeQL non configuré : le dépôt n'a aucun langage
+  détecté (les deux scripts Python vivent sous `.github/`), la configuration par défaut
+  tournait à vide.
+- **Interactions** limitées aux collaborateurs jusqu'au 2027-03-16 (six mois, le maximum
+  que GitHub accepte) : ni issue, ni PR, ni commentaire d'inconnu sur une page de profil.
+- **Fonctionnalités** : wiki, issues, projets, discussions désactivés ; squash et rebase
+  autorisés, merge commit non ; branches fusionnées supprimées automatiquement.
